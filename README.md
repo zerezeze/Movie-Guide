@@ -1,4 +1,4 @@
 # Movie-Guide
 Movie guide made with HTML, CSS and JS
 
-<img src="screenshot.png">
+<img src="Movie-Guide/screenshot.png">

@@ -11,7 +11,7 @@ Exibição de detalhes como sinopse e elenco.
 
 -> Instalação
 
-Clone o repositório
+Clone o repositório /
 Obtenha uma chave de API em OMDb API e adicione ao seu arquivo de configuração.
 
 
@@ -22,8 +22,8 @@ HTML, CSS, JavaScript
 
 -> Contribuição:
 
-Fork o repositório.
-Crie uma branch para suas alterações.
+Fork o repositório /
+Crie uma branch para suas alterações /
 Faça um Pull Request.
 
 <img src="screenshot.png.png">
